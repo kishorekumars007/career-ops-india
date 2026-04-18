@@ -1,14 +1,24 @@
-# Forked Repository Notice  
+# Career-Ops India
 
-This is a forked repository.
+This is an experimental repo forked from the original Career-Ops repository.
 
-# Career Ops India
+### Job Boards/Websites
 
-Career Ops India is dedicated to helping individuals develop the skills they need for a successful career. We offer resources and opportunities tailored to your professional growth.
+- Naukri
+- LinkedIn India
+- Indeed India
+- Instahyre
+- Cutshort
+- Wellfound India
+- AngelList India
+- Internshala
+- Glassdoor India
+- Monster India
 
-## Features  
-- Comprehensive career resources  
-- Networking opportunities  
-- Skill development workshops
+### About Original Repository
 
-Join us as we explore the best practices in career development!
+This repository is forked from [Career-Ops](https://github.com/santifer) by Santiago. 
+
+## GitHub Link for Original Owner
+
+[Visit Santiago's GitHub](https://github.com/santifer)
